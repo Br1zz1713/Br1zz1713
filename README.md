@@ -41,8 +41,8 @@ I build fast, clean, production-ready web applications.
 
 ### 📊 GitHub Stats
 
-![Yevhen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=br1zz1713&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=br1zz1713&layout=compact&theme=tokyonight&hide_border=true)
+![Yevhen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Br1zz1713&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Br1zz1713&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
